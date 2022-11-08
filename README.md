@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ketan Parmar</h1>
+<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm Ketan Parmar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" align="right" width="400px">
 
